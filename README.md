@@ -5,26 +5,38 @@ Hello! 👋 My name is Behiye, and this repository contains the projects I have 
 ## 📂 Project Folders
 
 ### 1️⃣ AB Testing
+
 🔍 **A/B Testing** is used to statistically analyze and compare the performance of different groups.
 
 📌 **Contents:**  
+
 - Real-world A/B testing scenarios 🏆
 - Hypothesis testing and p-value calculations 📊
 - Data analysis using Pandas, NumPy, and Scipy 🐍
 
 📂 **Folder Contents:**
+
 - 📄 `AB_Testing.ipynb` → A/B test analysis
 - 📊 `dataset.csv` → Datasets used
 - 📝 `README.md` → Explanations
 
 ### 2️⃣ SQL Training
+
 💾 Learning to extract meaningful insights from databases using SQL queries.
 
 📌 **Contents:**  
 - Data manipulation and analysis using SQL 🔍
 - Database management and optimization 📈
-- Basic and advanced SQL queries 📌
+- Basic and advanced SQL queries
 
+  
+📂 **Folder Contents:**
+
+- 📜 `SQLQueryTraining.sql` → SQL queries
+- 📄 `HR.xlsx` → Sample dataset
+- 📝 `README.md` → Explanations
+
+  
 ### 3️⃣ SQL Customer Analysis
 SQL practice questions focused on customer data operations, filtering, aggregations, joins, and conditional logic.  
 It includes 14 real-life scenarios such as finding the day of birth, identifying mobile operators, and analyzing city-based customer distribution.  
@@ -39,18 +51,11 @@ It includes 14 real-life scenarios such as finding the day of birth, identifying
   
 📂 **Folder Contents:**
 
-- 📜 `SQLQueryTraining.sql` → SQL queries
-- 📄 `HR.xlsx` → Sample dataset
-- 📝 `README.md` → Explanations
-- 📄`CUSTOMER.xlsx´ → Customers
+- 📄`CUSTOMER.xlsx´` → Customers dataset
 
-## 🛠️ Technologies Used
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
-- 🗄️ SQL (PostgreSQL, SQLite, MySQL)
-- 📊 Data Visualization (Matplotlib, Seaborn)
-- 📝 Jupyter Notebook & VS Code
 
 ## 📌 How to Use?
+
 1️⃣ Clone the repository:
 ```bash
  git clone https://github.com/BehiyeGuzelkabaagac/Projects.git
