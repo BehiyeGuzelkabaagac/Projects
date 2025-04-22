@@ -25,10 +25,24 @@ Hello! 👋 My name is Behiye, and this repository contains the projects I have 
 - Database management and optimization 📈
 - Basic and advanced SQL queries 📌
 
+### 3️⃣ SQL Customer Analysis
+SQL practice questions focused on customer data operations, filtering, aggregations, joins, and conditional logic.  
+It includes 14 real-life scenarios such as finding the day of birth, identifying mobile operators, and analyzing city-based customer distribution.  
+
+📌 **Contents:**  
+- JOINs and Subqueries  
+- GROUP BY and Aggregations  
+- CASE WHEN logic  
+- Extracting weekdays from date of birth  
+- City & gender-based analysis  
+- Phone operator identification via string functions
+  
 📂 **Folder Contents:**
+
 - 📜 `SQLQueryTraining.sql` → SQL queries
 - 📄 `HR.xlsx` → Sample dataset
 - 📝 `README.md` → Explanations
+- 📄`CUSTOMER.xlsx´ → Customers
 
 ## 🛠️ Technologies Used
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
@@ -45,7 +59,7 @@ Hello! 👋 My name is Behiye, and this repository contains the projects I have 
 
 ## 📬 Contact Me
 💡 Feel free to share your thoughts or contribute to this project!
-- 📧 Email: behiye@example.com
+- 📧 Email: behiyegka@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/behiye-guzelkabaagac/)
 - 🐙 [GitHub](https://github.com/BehiyeGuzelkabaagac)
 
