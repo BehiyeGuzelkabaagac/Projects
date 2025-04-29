@@ -52,7 +52,17 @@ It includes 14 real-life scenarios such as finding the day of birth, identifying
 📂 **Folder Contents:**
 
 - 📄`CUSTOMER.xlsx´` → Customers dataset
+- 📜´SQL Customer Analysis.sql´ → SQL Queries
 
+
+### 4️⃣ Global Happiness with Data Science
+Within the scope of this project, I analyzed the happiest and least happy countries in the world.
+I showed regional distributions and made visualizations showing the changes in these values ​​over the years.
+
+📂 **Folder Contents:**
+-📄´World-happiness-report-2024.csv´
+-📄´World-happiness-report-updated_2024.csv´
+-📄´worldhappinessranking.ipynb´
 
 ## 📌 How to Use?
 
